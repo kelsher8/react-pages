@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-pages/static/js/main.fc3911f3.js",
+    "static/media/test.jpg": "/react-pages/static/media/test.13d243538242b66ad1c8.jpg",
+    "index.html": "/react-pages/index.html",
+    "main.fc3911f3.js.map": "/react-pages/static/js/main.fc3911f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc3911f3.js"
+  ]
+}
